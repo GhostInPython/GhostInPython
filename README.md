@@ -76,18 +76,10 @@ Passionate about Artificial Intelligence, Machine Learning, Python and building 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: (Add your LinkedIn here)
+- GitHub: (https://github.com/GhostInPython)
+- LinkedIn: (I dont have yet)
 
 ---
 
